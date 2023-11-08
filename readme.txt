@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Long Division Calculator](https://www.calculator.io/long-division-calculator/ "Long Division Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_long_division_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Long Division Calculator to the sidebar through the `Appearance -> Widgets -> Long Division Calculator` menu in WordPress.
+* Add the shortcode `[ci_long_division_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_long_division_calculator(); ?>` to your template where you would like the Long Division Calculator to appear.
 
 == Screenshots ==
