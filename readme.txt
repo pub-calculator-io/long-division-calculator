@@ -13,6 +13,8 @@ Long division calculator performs long division with remainders. Demonstrates so
 
 Long division calculator performs long division with remainders. Demonstrates solution with steps, and answer as quotient and remainder and as mixed number.
 
+[Long Division Calculator Homepage](https://www.calculator.io/long-division-calculator/ "Long Division Calculator Homepage")
+
 __Shortcode__
 
 Use the Long Division Calculator shortcode:
