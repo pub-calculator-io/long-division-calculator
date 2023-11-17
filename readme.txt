@@ -1,6 +1,6 @@
 === Long Division Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: long division calculator, divide numbers, division calculation, long division step by step, division math, solve division, division problems, divide with remainders, division with decimals, division practice, division tutorial
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
