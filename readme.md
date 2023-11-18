@@ -1,4 +1,4 @@
-# Long Division Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Long Division Calculator Widget for WordPress
 
 Long division calculator performs long division with remainders. Demonstrates solution with steps, and answer as quotient and remainder and as mixed number.
 
