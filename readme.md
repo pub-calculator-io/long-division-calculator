@@ -7,7 +7,7 @@ Long division calculator performs long division with remainders. Demonstrates so
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/long-division-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /long-division-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Long Division Calculator](https://www.calculator.io/long-division-calculator/ "Long Division Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
