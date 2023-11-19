@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Long Division Calculator by www.calculator.io
+Plugin Name: CI Long division calculator
 Plugin URI: https://www.calculator.io/long-division-calculator/
 Description: Long division calculator performs long division with remainders. Demonstrates solution with steps, and answer as quotient and remainder and as mixed number.
 Version: 1.0.0
