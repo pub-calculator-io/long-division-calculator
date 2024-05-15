@@ -3,7 +3,6 @@
 Long division calculator performs long division with remainders. Demonstrates solution with steps, and answer as quotient and remainder and as mixed number.
 
 ![Long Division Calculator Input Form](/assets/images/screenshot-1.png "Long Division Calculator Input Form")
-![Long Division Calculator Calculation Results](/assets/images/screenshot-2.png "Long Division Calculator Calculation Results")
 
 ## Installation
 

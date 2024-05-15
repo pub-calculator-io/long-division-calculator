@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Long Division C
 == Screenshots ==
 
 1. The Long Division Calculator Input Form.
-2. The Long Division Calculator Calculation Results.
 
 == Installation ==
 
