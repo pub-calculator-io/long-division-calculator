@@ -1,6 +1,6 @@
 # Long Division Calculator Widget for WordPress
 
-Long division calculator performs long division with remainders. Demonstrates solution with steps, and answer as quotient and remainder and as mixed number.
+Easily solve math problems with our step-by-step Long Division Calculator. Find quotients, remainders, decimals, and mixed numbers instantly. Try it free!
 
 ![Long Division Calculator Input Form](/assets/images/screenshot-1.png "Long Division Calculator Input Form")
 
@@ -11,8 +11,8 @@ Long division calculator performs long division with remainders. Demonstrates so
 3. Activate the [Long Division Calculator](https://www.calculator.io/long-division-calculator/ "Long Division Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_long_division_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_long_division_calculator(); ?>` to your template where you would like the Long Division Calculator to appear.
+* Add the shortcode `[calcio_long_division_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_long_division_calculator(); ?>` to your template where you would like the Long Division Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
